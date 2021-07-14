@@ -28,6 +28,6 @@
 
 ---
 
-[website]: https://nikolam-portofolio.netlify.app/
+[website]: https://nikolam-portfolio.netlify.app/
 [instagram]: https://www.instagram.com/nmili97/
 [linkedin]: https://www.linkedin.com/in/mili997/
