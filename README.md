@@ -30,7 +30,7 @@
 
 <object data="https://nikolam-portfolio.netlify.app/Nikola_MilivojevicCV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://nikolam-portfolio.netlify.app/Nikola_MilivojevicCV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nikolam-portfolio.netlify.app/Nikola_MilivojevicCV.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
