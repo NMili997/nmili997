@@ -1,5 +1,7 @@
 ### Hi there, I'm Nikola [website] 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NMili997&count_private=true&hide=contribs,prs)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
